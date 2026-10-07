@@ -1,6 +1,6 @@
 # MAXIMUS Toolkit Website
 
-Static production-style landing page for MAXIMUS Toolkit.
+Static production-style landing page for MAXIMUS Toolkit 2026.
 
 ## Files
 - `index.html` — main landing/download page
