@@ -84,14 +84,3 @@ setLinks();
 hydrateReleaseMeta();
 initReveal();
 initHeader();
-
-function initBackToTop() {
-  const button = document.querySelector('.back-top-circle');
-  if (!button) return;
-  button.addEventListener('click', (event) => {
-    event.preventDefault();
-    window.scrollTo({ top: 0, behavior: 'smooth' });
-  });
-}
-
-initBackToTop();
