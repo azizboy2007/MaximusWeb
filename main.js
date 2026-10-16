@@ -1,5 +1,5 @@
 const CONFIG = {
-  apkUrl: "https://github.com/SH4D0045612St/PublicVersion/raw/main/Maximus%20Toolkit.apk",
+  apkUrl: "https://raw.githubusercontent.com/SH4D0045612St/PublicVersion/main/Maximus%20Toolkit%20v4.apk",
   githubReleaseUrl: "PUT_GITHUB_RELEASE_PAGE_HERE",
   githubReleaseApi: "https://api.github.com/repos/USERNAME/REPOSITORY/releases/latest"
 };
